@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567448770278",
+    "project_id": "finalecommerceapp-f31c8",
+    "storage_bucket": "finalecommerceapp-f31c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567448770278:android:122446b5dd2b936f74cd27",
+        "android_client_info": {
+          "package_name": "com.example.final_ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567448770278-cmvdc79ebob9ptaula1ss9j0q12kvg6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxhQ4jAYOknSbirGO0NYWB6N8RqRq48Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567448770278-cmvdc79ebob9ptaula1ss9j0q12kvg6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
